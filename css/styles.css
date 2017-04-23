@@ -1,0 +1,55 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+body{
+    margin: auto;
+}
+article{
+  width: 70%;
+  border: 2px solid green;
+  margin: auto;
+  height: 80vh;
+  background-image: url('../images/pinata.jpg');
+}
+.title{
+  font-family: 'Kristi', cursive;
+  font-size: 36px;
+  border: 5px solid #a6276e;
+  border-radius: 8px;
+  background-color: #dbadeb;
+  margin: auto;
+  text-align: center;
+  padding-bottom: 8px;
+  margin-top: 40px;
+  margin-bottom: 40px;
+  width: 600px;
+  height: 50px;
+}
+
+.mess{
+  font-family: 'Kristi', cursive;
+  font-size: 36px;
+  border: 5px solid  #a6276e;
+  border-radius: 10px;
+  background-color: #dbadeb;
+  margin: auto;
+  text-align: center;
+  margin-bottom: 40px;
+  width: 300px;
+  height: 50px;
+
+}
+.message1{
+    display: none;
+}
+.message2{
+    display: none;
+}
+.message3{
+    display: none;
+}
+
+p{
+  margin: auto;
+}
